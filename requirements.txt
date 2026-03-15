@@ -1,0 +1,8 @@
+numpy==2.4.2
+pandas==3.0.1
+psycopg2-binary==2.9.11
+python-dateutil==2.9.0.post0
+python-dotenv==1.2.2
+six==1.17.0
+toml==0.10.2
+tzdata==2025.3

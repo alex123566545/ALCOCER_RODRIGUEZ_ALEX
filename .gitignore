@@ -1,2 +1,3 @@
-venv_ETL1
-secrets.toml
+venv_ETL1/
+assets/
+secrets.toml\
